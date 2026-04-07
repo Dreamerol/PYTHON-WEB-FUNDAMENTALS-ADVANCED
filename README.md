@@ -15,6 +15,25 @@
 ---
 
 
+
+
+<p align="center">
+  
+![Python](https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge\&logo=python)
+![Django](https://img.shields.io/badge/Django-Framework-darkgreen?style=for-the-badge\&logo=django)
+![Flask](https://img.shields.io/badge/Flask-Lightweight-black?style=for-the-badge\&logo=flask)
+![SQL](https://img.shields.io/badge/SQL-Advanced-orange?style=for-the-badge\&logo=postgresql)
+![HTML](https://img.shields.io/badge/HTML5-Markup-red?style=for-the-badge\&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-Styling-blue?style=for-the-badge\&logo=css3)
+![Git](https://img.shields.io/badge/Git-Version_Control-black?style=for-the-badge\&logo=git)
+![Status](https://img.shields.io/badge/Status-Production_Ready-brightgreen?style=for-the-badge)
+  
+</p>
+
+
+---
+
+
 <p align="center">
   
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" title="Python programming & scripting"/>
@@ -37,21 +56,7 @@
  ---
 
 
-<p align="center">
-  
-![Python](https://img.shields.io/badge/Python-Expert-blue?style=for-the-badge\&logo=python)
-![Django](https://img.shields.io/badge/Django-Framework-darkgreen?style=for-the-badge\&logo=django)
-![Flask](https://img.shields.io/badge/Flask-Lightweight-black?style=for-the-badge\&logo=flask)
-![SQL](https://img.shields.io/badge/SQL-Advanced-orange?style=for-the-badge\&logo=postgresql)
-![HTML](https://img.shields.io/badge/HTML5-Markup-red?style=for-the-badge\&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-Styling-blue?style=for-the-badge\&logo=css3)
-![Git](https://img.shields.io/badge/Git-Version_Control-black?style=for-the-badge\&logo=git)
-![Status](https://img.shields.io/badge/Status-Production_Ready-brightgreen?style=for-the-badge)
-  
-</p>
 
-
----
 
 ## 📊 GitHub Stats
 
