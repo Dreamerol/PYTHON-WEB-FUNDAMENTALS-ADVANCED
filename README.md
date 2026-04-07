@@ -2,9 +2,10 @@
 <h1 align="center">🐍 PYTHON WEB FUNDAMENTALS & ADVANCED</h1>
 
 <p align="center">
-🚀 Building scalable backend systems, clean architecture & real-world web applications
+  <b><i><span style="font-size: 20px;">
+    🚀 Building scalable backend systems, clean architecture & real-world web applications
+  </span></i></b>
 </p>
-
 ---
 
 
