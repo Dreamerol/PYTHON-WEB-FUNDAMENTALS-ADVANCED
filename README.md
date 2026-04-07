@@ -2,7 +2,7 @@
 <h1 align="center">🐍 PYTHON WEB FUNDAMENTALS & ADVANCED</h1>
 
 <p align="center">
-  <b><i><span style="font-size: 40px;">
+  <b><i><span style="font-size: 50px;">
     🚀 Building scalable backend systems, clean architecture & real-world web applications
   </span></i></b>
 </p>
@@ -239,7 +239,7 @@ It is a demonstration of **engineering thinking, problem-solving ability, and re
 ---
 
 <p align="center">
-  <b><i><span style="font-size: 40px;">
+  <b><i><span style="font-size: 50px;">
    🔥 Built with passion for Python & Web Development
   </span></i></b>
 </p>
