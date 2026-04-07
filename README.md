@@ -65,11 +65,7 @@
 
 </p>
 
----
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Dreamerol&theme=tokyonight&hide_border=true&border_radius=10" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Dreamerol&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&cache_seconds=1800" height="170"/>
 
 ---
 
