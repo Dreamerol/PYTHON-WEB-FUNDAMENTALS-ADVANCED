@@ -28,6 +28,7 @@ Building scalable backend systems, clean architecture & web applications
 
 
 
+
 <div align="center">
   <a href="https://dreamerol.github.io/APPLIED-AI-ENGINEER/">
     <img
@@ -45,9 +46,10 @@ Building scalable backend systems, clean architecture & web applications
 
 
 
-
-
 <br>
+<br>
+<br>
+
 
 
 
